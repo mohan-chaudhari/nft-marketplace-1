@@ -1,6 +1,7 @@
 `#Ethereum`
 
 <img src="./img/logo.jpg" alt="architecture">
+<span> Jungle nft marketplace </span>
 
 # mTC - NFT Marketplace
 
