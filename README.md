@@ -1,5 +1,7 @@
 `#Ethereum`
 
+<img src="./img/logo.jpg" alt="architecture">
+
 # mTC - NFT Marketplace
 
 <img src="./img/Jungle_Landing Page V_02.1.jpg" alt="architecture">
